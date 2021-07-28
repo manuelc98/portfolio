@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PiXL",
+    "description": "Avec PiXL la vie est plus belle",
+    "version": "1.0.0",
+    "icon": "./logo.png",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.aitech.pixl",
+      "buildNumber": "1.0.0"
+    },
+
+    "android": {
+      "package": "com.aitech.pixl"
+    }
+  }
+}
