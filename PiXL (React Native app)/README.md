@@ -1,20 +1,21 @@
 # emlyon "Entrepreneurship in AI Tech" path
-*Mobile app using AI features
-*Multidisciplinnary team (Dev/Design/Business) working with Scrum method
-*Code front-end (React Native) and make the link with back-end
-*Create a graphic chart and prototype with Figma
-*Produce full business plan and pitch to incubators
+- Develop from scratch a mobile app using AI features in 4 months
+- Multidisciplinnary team (Dev/Design/Business) working with Scrum method
+- Code front-end (React Native) and make the link with back-end
+- Create a graphic chart and prototype with Figma
+- Produce full business plan and pitch to incubators : admitted to emlyon incubator
 
 ## PiXL : the secure second-hand phones marketplace
 Currently, mobile phones market is composed of 3 main sectors : brand new, refurbished and second-hand.
 If you want to get a fine mobile phone without spending too much and limiting your carbon footprint, you can seek for refurbished or second-hand phones.
 While refurbished remains a very good option, we noticed that sellers did not get the best of their phone value and second-hand market was not safe enough for buyers.
-So we designed our solution : a C2C marketplace specialized in premium and fully functional mobile phones.
+So we designed our solution : a **C2C marketplace specialized in premium and fully functional mobile phones.**
 Our added value :
 - A secure marketplace : money is kept by our service during the transfer and released when the buyer confirms good reception.
 - A compulsory test for sellers : all the functionalities of the phone are tested directly.
 - Safety first : phones are tracked thanks to IMEI n° from test on seller side to resception on buyer side. Our deep learning image recognition algorithm ensures that the ohysical state of the phone is consistent with given description.
 - Advice and best value for buyers and sellers : AI powered price recommendation, smart filters
+- Premium and recent phones that will last. Buyer gets good value for money and seller gets the best money for its value.
 
 # Overview of the app
 [PiXL.pdf](https://github.com/manuelc98/portfolio/files/6938029/PiXL.pdf)
