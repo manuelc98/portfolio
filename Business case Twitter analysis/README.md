@@ -10,4 +10,3 @@ Rogue Artists Ensemble is a non profitable theatre association. As they rely mos
 * Text analysis using NLTK : provide a portrait of Twitter followers
 * Business recommendations relying on previous data insights
 
-![Data vizualisation](/Users/manuel/Desktop/Capture d’écran 2021-08-05 à 12.46.32.png)
