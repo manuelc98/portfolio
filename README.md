@@ -1,4 +1,7 @@
 # Manuel's Portfolio
+I am a final year student at emlyon business schooll, majoring in business analytics.
+I am currently doing an exchange semester in business analytics at NHH school in Bergen (Norway).
+Here are some of the personal projects I worked on in Python :
 
 ## Business case Twitter analysis
 - Find relevant data on Twitter about followers of an art/theater group
