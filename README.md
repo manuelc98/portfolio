@@ -1,6 +1,5 @@
 # Manuel's Portfolio
-I am a final year student at emlyon business schooll, majoring in business analytics.
-I am currently doing an exchange semester in business analytics at NHH school in Bergen (Norway).
+I am a final year student at emlyon business school, majoring in business analytics.
 Here are some of the projects I worked on !
 
 ## Business case Twitter analysis
